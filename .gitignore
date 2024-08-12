@@ -1,0 +1,3 @@
+# Ignora os logs do Nginx
+/root/logs/nginx/access.log
+/root/logs/nginx/error.log
